@@ -1,5 +1,5 @@
-# Rakamin Mini Project
-## Analyzing eCommerce Business Performance with SQL
+#### Rakamin Mini Project
+# Analyzing eCommerce Business Performance with SQL
 
 ### **Objective**
 This project aims to analyze the business performance of an eCommerce company using several business metrics, namely customer growth, product quality, and payment type.
